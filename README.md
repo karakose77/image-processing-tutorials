@@ -1,4 +1,4 @@
 # image-processing-tutorials
 
 
-*bold text*
+**bold text
